@@ -1,2 +1,2 @@
-# Cracking-the-Coding-Interview
-problems done from Cracking the Coding Interview
+# cracking-the-coding-interview
+problems done from cracking the coding interview
